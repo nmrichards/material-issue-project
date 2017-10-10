@@ -1,0 +1,1 @@
+{"version":3,"file":"material-test.js","sources":["material-test.ts"],"sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\n\nexport {AppModule} from './public_api';\n\nexport {AppComponent as ɵa} from './src/app/app.component';"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAC,SAAS,EAAC,MAAM,cAAc,CAAC;AAEvC,OAAO,EAAA,YAAE,IAAe,EAAA,EAAG,MAAA,yBAAA,CAAA"}
